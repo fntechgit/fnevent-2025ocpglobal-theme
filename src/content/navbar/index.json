@@ -1,16 +1,26 @@
 {
   "items": [
     {
-      "title": "Lobby",
-      "link": "/a/",
+      "title": "HOME",
+      "link": "/",
       "display": true,
-      "userRequirement": "LOGGED_IN",
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
     },
     {
-      "title": "Schedule",
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "REGISTRATION",
+      "link": "/registration",
+      "display": true
+    },
+    {
+      "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
       "userRequirement": "NONE",
@@ -19,7 +29,16 @@
       ]
     },
     {
-      "title": "My Schedule",
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "TRAVEL",
+      "link": "/Travel"
+    },
+    {
+      "title": "MY SCHEDULE",
       "link": "/a/my-schedule",
       "display": true,
       "userRequirement": "LOGGED_IN",
@@ -28,49 +47,22 @@
       ]
     },
     {
-      "title": "Sponsors ",
-      "link": "/a/sponsors/",
-      "display": true,
-      "userRequirement": "LOGGED_IN",
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "About the event",
-      "link": "/about-event",
-      "display": true,
-      "userRequirement": "NONE",
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "Who we are",
-      "link": "/who-we-are",
-      "display": true,
-      "userRequirement": "NONE",
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "Past events",
-      "link": "/past-events",
-      "display": true,
-      "userRequirement": "NONE",
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "Contact",
+      "title": "CONTACT",
       "link": "/contact",
       "display": true,
       "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "FAQ",
+      "link": "/faq"
     },
     {
       "title": "Help",
@@ -82,7 +74,7 @@
       ]
     },
     {
-      "title": "My Orders/Tickets",
+      "title": "MY ORDERS / TICKETS",
       "link": "/a/my-tickets",
       "display": true,
       "userRequirement": "LOGGED_IN",
@@ -91,7 +83,7 @@
       ]
     },
     {
-      "title": "My Profile",
+      "title": "MY PROFILE",
       "link": "/a/profile",
       "display": true,
       "userRequirement": "LOGGED_IN",
