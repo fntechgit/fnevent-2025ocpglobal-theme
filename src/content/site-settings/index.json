@@ -43,5 +43,8 @@
     "enabled": false,
     "title": "Site under maintenance",
     "subtitle": "Please reload page shortly"
+  },
+  "siteMetadata": {
+    "title": "2025 OCP Global Summit"
   }
 }
