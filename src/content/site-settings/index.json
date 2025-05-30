@@ -25,7 +25,8 @@
   },
   "siteMetadata": {
     "title": "2025 OCP Global Summit",
-    "description": "This 2025 OCP Global Summit will bring together industry leaders, innovators, and visionaries to share the latest advancements, forge new partnerships, and define the community developed standardizations that will power the AI-driven future. By embracing openness and inclusivity, OCP is not only meeting the needs of today’s AI transformation but also laying the foundation for a resilient and digital infrastructure."
+    "description": "This 2025 OCP Global Summit will bring together industry leaders, innovators, and visionaries to share the latest advancements, forge new partnerships, and define the community developed standardizations that will power the AI-driven future. By embracing openness and inclusivity, OCP is not only meeting the needs of today’s AI transformation but also laying the foundation for a resilient and digital infrastructure.",
+    "image": "ocp25g-fnv-favicon-260.png"
   },
   "siteFont": {
     "fontFamily": "Franklin Gothic",
