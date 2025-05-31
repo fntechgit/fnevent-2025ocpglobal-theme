@@ -65,15 +65,6 @@
       "link": "/faq"
     },
     {
-      "title": "Help",
-      "link": "/help",
-      "display": true,
-      "userRequirement": "NONE",
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "MY ORDERS / TICKETS",
       "link": "/a/my-tickets",
       "display": true,
