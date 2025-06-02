@@ -11,19 +11,19 @@ San Jose Convention Center
 
 San Jose, CA 95113
 
-<br>
+<br/>
 
 Looking for things to do in San Jose? Visit their [travel page](https://www.sanjose.org/things-to-do)!
 
 
 
-<br>**Hotels**
+<br/>**Hotels**
 
 OCP Hotel Room blocks will be available this summer. Check back here!
 
 
 
-<br>**Nearby Airports**
+<br/>**Nearby Airports**
 
 SJC - Norman Y. Mineta San Jose International Airport
 
@@ -37,6 +37,6 @@ SFO - San Francisco International Airport
 
 
 
-**<br>Parking**
+**<br/>Parking**
 
 [Click here](https://www.sanjose.org/pdf/convention-center-parking) for information and pricing on for parking at the Convention Center.
