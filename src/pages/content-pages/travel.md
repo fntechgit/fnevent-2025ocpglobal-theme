@@ -5,7 +5,7 @@ userRequirement: NONE
 ---
 **Hotels**
 
-[MARRIOTT ](https://book.passkey.com/gt/220573107?gtid=100a7e3b98c9d562ac74984a69c2985a)
+**[MARRIOTT](https://book.passkey.com/gt/220573107?gtid=100a7e3b98c9d562ac74984a69c2985a)**
 
 Rate: $349
 
