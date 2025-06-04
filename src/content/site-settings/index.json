@@ -38,5 +38,8 @@
       "fontFile": "/static/fonts/franklingothic-medium.ttf",
       "fontFormat": "ttf"
     }
+  },
+  "favicon": {
+    "asset": "ocp25g-fnv-favicon-260.png"
   }
 }
