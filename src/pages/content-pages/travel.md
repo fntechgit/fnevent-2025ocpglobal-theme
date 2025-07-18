@@ -13,7 +13,7 @@ Cut off date: 9/19
 
 \*Select nights still available
 
-[](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/" target="_blank" rel="noopener noreferrer">HILTON</a>**
+[](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/" target="_blank" rel="noopener noreferrer">HILTON</a> *SOLD OUT**
 
 Rate: $352  
 
