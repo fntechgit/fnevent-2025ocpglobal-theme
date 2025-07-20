@@ -5,19 +5,21 @@ userRequirement: NONE
 ---
 **Hotels**
 
-**<a href="https://book.passkey.com/gt/220573107?gtid=100a7e3b98c9d562ac74984a69c2985a" target="_blank" rel="noopener noreferrer">MARRIOTT</a>** –Tuesday SOLD OUT, remaining Wednesday rooms at $399 rate
+**<a href="https://book.passkey.com/gt/220573107?gtid=100a7e3b98c9d562ac74984a69c2985a" target="_blank" rel="noopener noreferrer">MARRIOTT</a> |** Tuesday SOLD OUT, remaining Wednesday rooms at $399 rate
 
 Rate: $349
 
 Cut off date: 9/19 
 
-\*Select nights still available
 
-[](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/" target="_blank" rel="noopener noreferrer">HILTON</a> *SOLD OUT**
+
+[](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/" target="_blank" rel="noopener noreferrer">HILTON</a> | SOLD OUT**
 
 Rate: $352  
 
 Cut off date: 9/23
+
+
 
 [](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.hyatt.com/en-US/group-booking/SJCZJ/G-OC25" target="_blank" rel="noopener noreferrer">HYATT PLACE</a>**[](https://www.hyatt.com/en-US/group-booking/SJCZJ/G-OC25)
 
