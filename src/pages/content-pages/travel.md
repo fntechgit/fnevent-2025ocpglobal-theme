@@ -11,13 +11,15 @@ Rate: $349
 
 Cut off date: 9/19 
 
-
+<br/>
 
 [](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/" target="_blank" rel="noopener noreferrer">HILTON</a> | SOLD OUT**
 
 Rate: $352  
 
 Cut off date: 9/23
+
+<br/>
 
 
 
@@ -27,11 +29,15 @@ Rate: $312
 
 Cut off date 9/18 
 
+<br/>
+
 [](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1748555671089&key=GRP&phoenix=true" target="_blank" rel="noopener noreferrer">FOUR POINTS</a>**
 
 Rate: $599
 
 Cut off date: 9/12
+
+<br/>
 
 **<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1748476703513&key=GRP&guestreslink2=true&app=resvlink" target="_blank" rel="noopener noreferrer">WESTIN</a>**
 
