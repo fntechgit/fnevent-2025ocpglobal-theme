@@ -5,7 +5,7 @@ userRequirement: NONE
 ---
 **Hotels**
 
-**<a href="https://book.passkey.com/gt/220573107?gtid=100a7e3b98c9d562ac74984a69c2985a" target="_blank" rel="noopener noreferrer">MARRIOTT</a>**
+**<a href="https://book.passkey.com/gt/220573107?gtid=100a7e3b98c9d562ac74984a69c2985a" target="_blank" rel="noopener noreferrer">MARRIOTT</a>** –Tuesday SOLD OUT, remaining Wednesday rooms at $399 rate
 
 Rate: $349
 
