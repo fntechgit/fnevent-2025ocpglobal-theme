@@ -21,9 +21,7 @@ Cut off date: 9/23
 
 <br/>
 
-
-
-[](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.hyatt.com/en-US/group-booking/SJCZJ/G-OC25" target="_blank" rel="noopener noreferrer">HYATT PLACE</a>**[](https://www.hyatt.com/en-US/group-booking/SJCZJ/G-OC25)
+[](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.hyatt.com/en-US/group-booking/SJCZJ/G-OC25" target="_blank" rel="noopener noreferrer">HYATT PLACE</a> | SOLD OUT**[](https://www.hyatt.com/en-US/group-booking/SJCZJ/G-OC25)
 
 Rate: $312
 
@@ -39,7 +37,7 @@ Cut off date: 9/12
 
 <br/>
 
-**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1748476703513&key=GRP&guestreslink2=true&app=resvlink" target="_blank" rel="noopener noreferrer">WESTIN</a>**
+**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1748476703513&key=GRP&guestreslink2=true&app=resvlink" target="_blank" rel="noopener noreferrer">WESTIN</a> | SOLD OUT**
 
 Rate: $599
 
