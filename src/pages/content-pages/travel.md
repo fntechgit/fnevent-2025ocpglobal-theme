@@ -67,6 +67,10 @@ SFO - San Francisco International Airport
 
 35 miles
 
+
+
+<a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/16dc59718e8d5afa16e076d48441bd7a3c0eec95.pdf" target="_blank" rel="noopener noreferrer">Click here</a> for a full list of nearby hotels. (Please note: OCP only has blocks at the ones listed above.)
+
 **<br/>Parking**
 
 [Click here](https://www.sanjose.org/pdf/convention-center-parking) for information and pricing on for parking at the Convention Center.
