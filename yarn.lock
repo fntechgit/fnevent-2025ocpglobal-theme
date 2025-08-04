@@ -2757,10 +2757,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.16":
-  version "2.1.16"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.16.tgz#6c86c5a8f94065c0713a65610c092d1ccc8cb36e"
-  integrity sha512-dD8eC7h8QtZz9RvrO+DFMYlBlZyida9xnFwXFqrQasJwBLPmO0AIZDt+WoeAGtT/Ye9Mf7OsuCXV8YrjFwqQtw==
+"@openeventkit/event-site@2.1.17":
+  version "2.1.17"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.17.tgz#1482cca4ad56d4b4a06c84f560d70a2454eb8c96"
+  integrity sha512-sdSrATjLMYdKofI41Q9e6rOmW2ItSJWqmEvfMQMA2LgSCafy0SfWaF0QuYg2s3O6Vs5mk/tTaU0wt2lqL96E8w==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2801,7 +2801,6 @@
     bulma "^0.9.0"
     chain-function "^1.0.1"
     classnames "^2.3.1"
-    core-js "^2.6.11"
     cross-env "^7.0.3"
     crypto-js "^4.1.1"
     decap-cms-app "^3.1.10"
@@ -6672,7 +6671,7 @@ core-js@^1.0.0:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-1.2.7.tgz#652294c14651db28fa93bd2d5ff2983a4f08c636"
   integrity sha512-ZiPp9pZlgxpWRu0M+YWbm6+aQ84XEfH1JRXvfOc/fILWI0VKhLC2LX13X1NYq4fULzLMq7Hfh43CSo2/aIaUPA==
 
-core-js@^2.4.0, core-js@^2.6.11, core-js@^2.6.12:
+core-js@^2.4.0, core-js@^2.6.12:
   version "2.6.12"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.12.tgz#d9333dfa7b065e347cc5682219d6f690859cc2ec"
   integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
