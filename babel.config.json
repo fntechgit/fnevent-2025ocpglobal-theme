@@ -5,8 +5,7 @@
       {
         "targets": {
           "esmodules": true
-        },
-        "corejs": 3
+        }
       }
     ]
   ]
