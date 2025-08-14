@@ -29,7 +29,7 @@ Cut off date 9/18
 
 <br/>
 
-[](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1748555671089&key=GRP&phoenix=true" target="_blank" rel="noopener noreferrer">FOUR POINTS</a>**
+[](https://www.hilton.com/en/attend-my-event/sjcshhf-ocp-18bedf6e-1467-4620-af0f-5647bf7f8d95/)**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1748555671089&key=GRP&phoenix=true" target="_blank" rel="noopener noreferrer">FOUR POINTS</a> | SOLD OUT**
 
 Rate: $599
 
@@ -70,10 +70,6 @@ SJC - Norman Y. Mineta San Jose International Airport
 SFO - San Francisco International Airport 
 
 35 miles
-
-
-
-
 
 **<br/>Parking**
 
