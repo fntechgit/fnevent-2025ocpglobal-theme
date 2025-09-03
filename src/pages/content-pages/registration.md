@@ -7,8 +7,6 @@ Registration for the 2025 OCP Global Summit will open in June. Subscribe to our 
 
 **<br/>Registration Options**
 
-Early Bird: $700 (Launches in June)
-
 General: $900 
 
 On-site: $1,200 
@@ -21,7 +19,7 @@ Change of plans? Your can transfer your registration ticket to someone else. Ple
 
 <br/>**Cancellation Policy**
 
-A request to cancel your ticket must be emailed to [registration@opencompute.org](<mailto: registration@opencompute.org>). Requests received prior to August 29 will receive a full refund. No refunds will be given after August 28.
+A request to cancel your ticket must be emailed to [registration@opencompute.org](<mailto: registration@opencompute.org>). Requests received prior to October 1 will receive a full refund. No refunds will be given after October 1.
 
 **<br/>Badge Sharing**
 
