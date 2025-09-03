@@ -15,7 +15,7 @@ Registration fees include: Access to all sessions (keynotes, executive sessions,
 
 **<br/>Transfer a Ticket to Someone Else**
 
-Change of plans? Your can transfer your registration ticket to someone else. Please log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options. Note: Only the ticket purchaser may transfer a ticket to someone else.
+Change of plans? Your can transfer your ticket to someone else before it has been redeemed for an event badge at registration. Please log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options. Note: Only the ticket purchaser may transfer a ticket to someone else and once the event badge has been printed, the ticket is non-transferrable.
 
 <br/>**Cancellation Policy**
 
