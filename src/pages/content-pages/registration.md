@@ -7,7 +7,7 @@ Registration for the 2025 OCP Global Summit will open in June. Subscribe to our 
 
 **<br/>Registration Options**
 
-General: $900 
+Standard: $900 
 
 On-site: $1,200 
 
