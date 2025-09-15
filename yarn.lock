@@ -2618,10 +2618,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.20":
-  version "2.1.20"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.20.tgz#377bab5565d58a8171bcfc059fa04d11b5a25b51"
-  integrity sha512-Rj5t9on9Ej6MXsb6LR/hiPLX4whH7WN60ltgZiM0QqrBT3Kh5RVzvQDO2PrfUEfPIp+nGrkzMnqmRVy6HNGUbg==
+"@openeventkit/event-site@2.1.21":
+  version "2.1.21"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.21.tgz#ccbe4d2463941e0e936f44d07ffb6d831820bb4b"
+  integrity sha512-Cv99C8Bqtvi1pcHXzUpAN27a+pakrtRf7qOLwD0EoNQbbuYgoo+byV3yTZTxWTPVbvMA4YGaTyQx+x6lc1gjBQ==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2674,7 +2674,7 @@
     font-awesome "^4.7.0"
     formik "^2.4.6"
     fs-extra "^11.3.0"
-    full-schedule-widget "3.1.0-beta.10"
+    full-schedule-widget "3.1.1-beta.2"
     gatsby "^5.13.5"
     gatsby-alias-imports "^1.0.6"
     gatsby-plugin-decap-cms "^4.0.4"
@@ -2697,6 +2697,7 @@
     immutability-helper "2.9.1"
     immutable "^5.0.0-beta.5"
     js-cookie "^3.0.5"
+    jsdom "^24"
     klaro "^0.7.21"
     lite-schedule-widget "3.0.3"
     live-event-widget "4.0.4"
@@ -9205,10 +9206,10 @@ fsevents@~2.3.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
-full-schedule-widget@3.1.0-beta.10:
-  version "3.1.0-beta.10"
-  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.1.0-beta.10.tgz#88273d90937677983e1ed0123c3b5c2de251ad0f"
-  integrity sha512-etJHFyqE0pVUk+4xjvQnCcrnt84YwKes8UZEhmhpMRGPIK6UbT176iV9RzHME5W4CFXhsjPmfeSoVgiFXBultA==
+full-schedule-widget@3.1.1-beta.2:
+  version "3.1.1-beta.2"
+  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.1.1-beta.2.tgz#67a02bb2a3fb73f2a7cab48004f9e4617b49338d"
+  integrity sha512-GOsf1f+daVf82R1XNJSRgg8AlARdQ+Ou/RccTi/4T5HpmBqN/TnGemCI02pMlaSHPej51+pY+qzHAPwPbord6A==
   dependencies:
     "@mui/base" "5.0.0-alpha.127"
     "@react-pdf/renderer" "^3.1.11"
