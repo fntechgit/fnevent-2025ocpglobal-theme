@@ -7,9 +7,13 @@ Registration for the 2025 OCP Global Summit will open in June. Subscribe to our 
 
 **<br/>Registration Options**
 
-Standard: $900 
+ General: $900 (August 2 - October 12)
 
-On-site: $1,200 
+ On-Site Walk-Up: Monday & Tuesday $1,200 (October 13 & 14)
+
+ On-Site Walk-Up: Wednesday $800 (October 15)
+
+ On-Site Walk-Up: Thursday $400 (October 16)
 
 Registration fees include: Access to all sessions (keynotes, executive sessions, expo hall sessions, breakout sessions), expo hall, Innovation Village, breakfast, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all official co-located workshops. 
 
