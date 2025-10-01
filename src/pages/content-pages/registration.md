@@ -3,6 +3,10 @@ templateKey: content-page
 title: Registration
 userRequirement: NONE
 ---
+[Click here to register! ](https://2025ocpglobal.fnvirtual.app/)
+
+[](https://2025ocpglobal.fnvirtual.app/)
+
 This Summit will be an in-person event. All sessions will be recorded. Session videos and slides will be posted to the OCP Past Events page here in the weeks following Summit. Please direct any questions to [registration@opencompute.org](<mailto: registration@opencompute.org>)[](<mailto: registration@opencompute.org>)
 
 **<br/>Registration Options**
