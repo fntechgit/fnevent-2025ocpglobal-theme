@@ -11,7 +11,7 @@ This Summit will be an in-person event. All sessions will be recorded. Session v
 
 **<br/>Registration Options**
 
- General: $900 (August 2 - October 12)
+ General: $900 (August 2–October 12)
 
  On-Site: $1,200 (October 13–16)
 
