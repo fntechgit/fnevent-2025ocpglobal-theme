@@ -13,11 +13,7 @@ This Summit will be an in-person event. All sessions will be recorded. Session v
 
  General: $900 (August 2 - October 12)
 
- On-Site Walk-Up: Monday & Tuesday $1,200 (October 13 & 14)
-
- On-Site Walk-Up: Wednesday $800 (October 15)
-
- On-Site Walk-Up: Thursday $400 (October 16)
+ On-Site: $1,200 (October 13–16)
 
 Registration fees include: Access to all sessions (keynotes, executive sessions, expo hall sessions, breakout sessions), expo hall, Innovation Village, breakfast, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all official co-located workshops. 
 
