@@ -3,7 +3,7 @@ templateKey: content-page
 title: Registration
 userRequirement: NONE
 ---
-Registration for the 2025 OCP Global Summit will open in June. Subscribe to our events mailing list here so you don't miss the announcement. This Summit will be an in-person event. All sessions will be recorded and shared with the Community after the event. Please direct any questions to [registration@opencompute.org](<mailto: registration@opencompute.org>)
+This Summit will be an in-person event. All sessions will be recorded. Session videos and slides will be posted to the OCP Past Events page here in the weeks following Summit. Please direct any questions to [registration@opencompute.org](<mailto: registration@opencompute.org>)[](<mailto: registration@opencompute.org>)
 
 **<br/>Registration Options**
 
