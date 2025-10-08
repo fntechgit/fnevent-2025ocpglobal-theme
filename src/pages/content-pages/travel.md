@@ -3,6 +3,12 @@ templateKey: content-page
 title: Travel
 userRequirement: NONE
 ---
+**Parking**
+
+**LIMITED ON-SITE PARKING:** The San Jose McEnery Convention Center has a nominal amount of public parking, which fills up very quickly. *Please consider using a rideshare service or public transit when possible.* Please note that unlike past years, the South Hall parking lot will not be available during the Summit. [Click HERE](https://www.sanjose.org/trip-ideas/parking) for parking information.
+
+
+
 **Hotels**
 
 **<a href="https://book.passkey.com/gt/220573107?gtid=100a7e3b98c9d562ac74984a69c2985a" target="_blank" rel="noopener noreferrer">MARRIOTT</a> |** **SOLD OUT**
