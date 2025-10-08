@@ -58,6 +58,16 @@
       ]
     },
     {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "MAP",
+      "link": "/map",
+      "display": true
+    },
+    {
       "title": "CONTACT",
       "link": "/contact",
       "display": true,
