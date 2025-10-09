@@ -9,7 +9,7 @@ Please see below for helpful information to help prepare you for the event.
 
 ![](d707f4ff14ac1de042c5383be717bf2a192236a1.png)
 
-Now 4 days! Remember that the Summit now expands over 4 days, starting Monday (Oct 13) through Thursday (Oct 16). Click here for the high-level schedule at a glance.
+Now 4 days! Remember that the Summit now expands over 4 days, starting Monday (Oct 13) through Thursday (Oct 16). [Click here](https://2025ocpglobal.fnvirtual.app/a/schedule/) for the high-level schedule at a glance.
 
 <br/>
 
