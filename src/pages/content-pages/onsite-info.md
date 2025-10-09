@@ -43,6 +43,8 @@ Change of plans? You can transfer your ticket to someone else before check-in. L
 
 NEW! Keynotes take place on Monday from 4-6pm and Tuesday from 9-11am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
 
+![](ocp25g_venue-map-parkway_ll.png)
+
 It’s an easy 3-5 minute walk to get to South Hall. For those who need assistance, we will be running small 4-8 passenger shuttles from the main SJCC entrance (San Carlos St.) to South Hall. Rides will be running continuous loops during the below days/times:
 
 * Monday, 10/13: 2:30pm - 7:45pm
