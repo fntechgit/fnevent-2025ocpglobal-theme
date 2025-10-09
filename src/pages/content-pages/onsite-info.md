@@ -52,4 +52,20 @@ It’s an easy 3-5 minute walk to get to South Hall. For those who need assistan
 * Wednesday, 10/15: 7:00am - 2:00pm
 * Thursday, 10/16: 7:00am - 2:00pm
 
-Wheelchairs can be accommodated on some passenger shuttles - please stop by the main registration Help Desk for assistance.
+Wheelchairs can be accommodated on some passenger shuttles - please stop by the main registration Help Desk for assistance. 
+
+
+
+<br/>
+
+**Helpful Info**
+
+All sessions will be recorded. Session videos and slides will be posted to the OCP Past Events page [here](https://www.opencompute.org/events/past-events) in the weeks following Summit.
+
+Need somewhere to chat, check your email, or network with your peers? Head to Grand Ballroom 220A for our large open seating area perfect for just that!
+
+Check out our new GREENHOUSE space in the expo hall this year. A perfect spot to relax, unwind, and take a break in between sessions.
+
+When onsite, all attendees must wear their badge at ALL TIMES to access Summit functions. We appreciate your understanding!  
+
+Staying for a few more days? Click [HERE](https://www.sanjose.org/things-to-do) for Things To Do in San Jose.
