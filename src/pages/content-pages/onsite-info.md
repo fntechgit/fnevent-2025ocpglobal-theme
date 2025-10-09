@@ -34,3 +34,20 @@ Registration fees include: Access to all sessions (keynotes, executive, expo hal
 
 
 Change of plans? You can transfer your ticket to someone else before check-in. Log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options.
+
+
+
+<br/>
+
+**Keynotes**
+
+NEW! Keynotes take place on Monday from 4-6pm and Tuesday from 9-11am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
+
+It’s an easy 3-5 minute walk to get to South Hall. For those who need assistance, we will be running small 4-8 passenger shuttles from the main SJCC entrance (San Carlos St.) to South Hall. Rides will be running continuous loops during the below days/times:
+
+* Monday, 10/13: 2:30pm - 7:45pm
+* Tuesday, 10/14: 7:30am - 12pm
+* Wednesday, 10/15: 7:00am - 2:00pm
+* Thursday, 10/16: 7:00am - 2:00pm
+
+Wheelchairs can be accommodated on some passenger shuttles - please stop by the main registration Help Desk for assistance.
