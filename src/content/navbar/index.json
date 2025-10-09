@@ -20,15 +20,6 @@
       "display": true
     },
     {
-      "title": "SCHEDULE",
-      "link": "/a/schedule",
-      "display": true,
-      "userRequirement": "NONE",
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
@@ -39,14 +30,13 @@
       "display": true
     },
     {
+      "title": "SCHEDULE",
+      "link": "/a/schedule",
+      "display": true,
       "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
-      ],
-      "showOnlyAtShowTime": false,
-      "title": "OCP SITE",
-      "link": "https://www.opencompute.org/summit/global-summit",
-      "display": true
+      ]
     },
     {
       "title": "MY SCHEDULE",
@@ -63,9 +53,18 @@
         "ANY"
       ],
       "showOnlyAtShowTime": false,
-      "title": "MAP",
+      "title": "MAPS",
       "link": "/map",
       "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "ONSITE INFO",
+      "link": "/onsite-info"
     },
     {
       "title": "CONTACT",
@@ -82,8 +81,9 @@
         "ANY"
       ],
       "showOnlyAtShowTime": false,
-      "title": "FAQ",
-      "link": "/faq"
+      "title": "OCP SITE",
+      "link": "https://www.opencompute.org/summit/global-summit",
+      "display": true
     },
     {
       "title": "MY ORDERS / TICKETS",
@@ -102,6 +102,15 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "FAQ",
+      "link": "/faq"
     }
   ]
 }
