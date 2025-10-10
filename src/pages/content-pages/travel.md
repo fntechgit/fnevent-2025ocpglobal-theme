@@ -9,6 +9,34 @@ userRequirement: NONE
 
 **<br/>**
 
+
+
+**Event Venue**
+
+San Jose Convention Center
+
+150 W San Carlos Street
+
+San Jose, CA 95113
+
+<br/>
+
+Looking for things to do in San Jose? Visit their [travel page](https://www.sanjose.org/things-to-do)!
+
+<br/>**Nearby Airports**
+
+SJC - Norman Y. Mineta San Jose International Airport
+
+5 miles
+
+SFO - San Francisco International Airport 
+
+35 miles
+
+
+
+**<br/>**
+
 **Hotels**
 
 **<a href="https://book.passkey.com/gt/220573107?gtid=100a7e3b98c9d562ac74984a69c2985a" target="_blank" rel="noopener noreferrer">MARRIOTT</a> |** **SOLD OUT**
@@ -54,29 +82,3 @@ Cut off date: 9/12
 <a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/16dc59718e8d5afa16e076d48441bd7a3c0eec95.pdf" target="_blank" rel="noopener noreferrer">Click here</a> for a full list of nearby hotels. (Please note: OCP only has blocks at the ones listed above.)
 
 <br/>
-
-**Event Venue**
-
-San Jose Convention Center
-
-150 W San Carlos Street
-
-San Jose, CA 95113
-
-<br/>
-
-Looking for things to do in San Jose? Visit their [travel page](https://www.sanjose.org/things-to-do)!
-
-<br/>**Nearby Airports**
-
-SJC - Norman Y. Mineta San Jose International Airport
-
-5 miles
-
-SFO - San Francisco International Airport 
-
-35 miles
-
-**<br/>Parking**
-
-[Click here](https://www.sanjose.org/pdf/convention-center-parking) for information and pricing on for parking at the Convention Center.
