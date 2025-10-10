@@ -56,8 +56,8 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp25g-fnv-marketing-space1.jpg",
-            "link": "https://www.opencompute.org/summit/global-summit/theme"
+            "src": "ocp25g-fnv-marketing-space1_onsite_v1.png",
+            "link": "/onsite-info/"
           }
         ]
       },
@@ -66,8 +66,8 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp25g-fnv-marketing-space2.jpg",
-            "link": "https://www.opencompute.org/membership/how-to-join"
+            "src": "ocp25g-fnv-marketing-space2_onsite_v1.png",
+            "link": ""
           }
         ]
       },
@@ -76,8 +76,8 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp25g-fnv-marketing-space3.jpg",
-            "link": "https://www.opencompute.org/events/past-events/2025-ocp-emea-summit"
+            "src": "ocp25g-fnv-marketing-space1b_onsite_v1.png",
+            "link": "/a/schedule/"
           }
         ]
       },
@@ -86,7 +86,28 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp25g-fnv-marketing-space4.jpg"
+            "src": "ocp25g-fnv-marketing-space2b_onsite_v1.png",
+            "link": "https://www.opencompute.org/summit/global-summit/theme"
+          }
+        ]
+      },
+      {
+        "placement": "Bottom 2 Left",
+        "size": 1,
+        "images": [
+          {
+            "src": "ocp25g-fnv-marketing-space3_onsite_v1.png",
+            "link": "/map/"
+          }
+        ]
+      },
+      {
+        "placement": "Bottom 2 Right",
+        "size": 1,
+        "images": [
+          {
+            "src": "ocp25g-fnv-marketing-space4_onsite_v1.png",
+            "link": "https://www.opencompute.org/summit/global-summit/theme"
           }
         ]
       }
