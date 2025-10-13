@@ -3,7 +3,7 @@ templateKey: content-page
 title: Onsite Info
 userRequirement: NONE
 ---
-We are excited for you to join us next week in San Jose for the 2025 OCP Global Summit!
+We are excited for you to join us this week in San Jose for the 2025 OCP Global Summit!
 
 Please see below for helpful information to help prepare you for the event.
 
@@ -31,11 +31,7 @@ Registration will be open in The Hub, near main entrance of the convention cente
 
 Registration fees include: Access to all sessions (keynotes, executive, expo hall, breakouts), expo hall, Innovation Village, breakfast, lunch, coffee, snack breaks, evening receptions, Future Technologies Symposium and all official co-located events.
 
-
-
 Change of plans? You can transfer your ticket to someone else before check-in. Log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options.
-
-
 
 <br/>
 
@@ -53,8 +49,6 @@ It’s an easy 3-5 minute walk to get to South Hall. For those who need assistan
 * Thursday, 10/16: 7:00am - 2:00pm
 
 Wheelchairs can be accommodated on some passenger shuttles - please stop by the main registration Help Desk for assistance. 
-
-
 
 <br/>
 
