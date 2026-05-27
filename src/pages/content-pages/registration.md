@@ -3,25 +3,43 @@ templateKey: content-page
 title: Registration
 userRequirement: NONE
 ---
-[Click here to register! ](https://2025ocpglobal.fnvirtual.app/)
+[](<mailto: registration@opencompute.org>)[](<mailto: registration@opencompute.org>)
 
-[](https://2025ocpglobal.fnvirtual.app/)
+**<br/>2026 OCP Global Summit Registration Update**\
+\
+As we continue to experience unprecedented growth at the San Jose Convention Center, the Open Compute Project (OCP) Foundation anticipates that tickets for the 2026 Global Summit may sell out in advance of the live event.  \
+\
+To preserve the quality, collaboration, and unique community experience that defines the OCP Global Summit, attendance may be limited. This approach ensures an engaging and productive environment for all participants.  \
+\
+OCP Members and current sponsors will receive priority access to registration before it opens to the general public.  \
+\
+Following the preliminary member and sponsor registration period, remaining tickets will be made available to the public. Registration will officially close once the maximum capacity has been reached. Onsite registration may not be available. We encourage the OCP Community to purchase all tickets needed as early as possible.  
 
-This Summit will be an in-person event. All sessions will be recorded. Session videos and slides will be posted to the OCP Past Events page here in the weeks following Summit. Be sure to bring your photo ID for badge pickup. Please direct any questions to [registration@opencompute.org.](<mailto: registration@opencompute.org>)[](<mailto: registration@opencompute.org>)
+We appreciate your interest and support in the OCP Global Summit and we look forward to another successful show.
 
 **<br/>Registration Options**
 
- On-Site: $1,200 (October 13–16)
+Pre-Sale Registration: Members & Sponsors	Early Rate	$800	June 3 - July 17
 
-Registration fees include: Access to all sessions (keynotes, executive sessions, expo hall sessions, breakout sessions), expo hall, Innovation Village, breakfast, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all official co-located workshops. 
+Early Registration: Public	Early Rate	$800	July 18 - July 31
+
+Standard Registration	Standard Rate	$1,000	August 1 - October 11
+
+Onsite Registration (If tickets do not sell out prior)	Onsite Rate	$1,300	October 12-15
+
+Registration fees include: Access to all sessions (keynotes, executive sessions, expo hall sessions, breakout sessions), expo hall, Innovation Village, breakfast, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all official co-located workshops. 
+
+**<br/>Cancellation Policy**
+
+A request to cancel your ticket must be emailed to registration@opencompute.org. Requests received prior to August 28 will receive a full refund. No refunds will be given after August 28.
+
+**<br/>Media and Press Registration**
+
+Media and Press registration will open in June. Check back here for details.
 
 **<br/>Transfer a Ticket to Someone Else**
 
-Change of plans? Your can transfer your ticket to someone else before it has been redeemed for an event badge at registration. Please log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options. Note: Only the ticket purchaser may transfer a ticket to someone else and once the event badge has been printed, the ticket is non-transferrable.
-
-<br/>**Cancellation Policy**
-
-A request to cancel your ticket must be emailed to [registration@opencompute.org](<mailto: registration@opencompute.org>). Requests received prior to October 1 will receive a full refund. No refunds will be given after October 1.
+Change of plans? Your can transfer your registration ticket to someone else before it has been redeemed for an event badge at registration. Please log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options. Note: Only the ticket purchaser may transfer a ticket to someone else.
 
 **<br/>Badge Sharing**
 
